@@ -5,4 +5,4 @@ NovaSensor NPA Series of Surface-Mount Pressure Sensors is provided in a miniatu
 
 The NPA-700	5.0V *	4.75 V to 5.25 V	NPA Compensated, digital I2C.
 
-Current code is in beta. Use at your own risk, no warrenties, implied or guarenteed.
+Current code is in beta. Use at your own risk, no warranties, implied or guarenteed.
