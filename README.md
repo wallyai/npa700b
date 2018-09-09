@@ -1,4 +1,5 @@
-# npa700b
+# npa700b - precision i2c, micro pressure and temperature sensor
+
 **family:** 
 
 https://www.amphenol-sensors.com/en/novasensor/pressure-sensors/3161-npa-series
