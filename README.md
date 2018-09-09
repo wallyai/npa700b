@@ -1,9 +1,9 @@
 # npa700b
-**Family:** 
+**family:** 
 
 https://www.amphenol-sensors.com/en/novasensor/pressure-sensors/3161-npa-series
 
-**Application Guide:**
+**application guide:**
 
 https://www.amphenol-sensors.com/en/component/edocman/356-novasensor-npa-pressure-sensor-application-guide/download?Itemid=8453
 
@@ -15,3 +15,5 @@ Current code is in beta. Use at your own risk, no warranties, implied or guarent
 **SOIC 20pin breakout board used:** 
 
 https://www.amazon.com/QLOUNI-40pcs-Boards-Adapter-Converter/dp/B07CJ96ZPW/ref=sr_1_2_sspa?s=industrial&ie=UTF8&qid=1536502364&sr=1-2-spons&keywords=20+top+adapter&psc=1
+
+**example output:**
