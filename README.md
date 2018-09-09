@@ -1,4 +1,4 @@
-# npa700b - precision i2c, micro pressure and temperature sensor
+# npa700b - i2c based - precision ultra small pressure and temperature sensor
 
 **family:** 
 
