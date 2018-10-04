@@ -1,5 +1,8 @@
 # npa700b - i2c based pressure and temperature sensor
-# target: raspberry pi 3+
+
+**target:**
+
+raspberry pi 3+
 
 **family:** 
 
