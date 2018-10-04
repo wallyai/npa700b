@@ -17,7 +17,7 @@ NovaSensor NPA Series of Surface-Mount Pressure Sensors is provided in a miniatu
 The NPA-700	5.0V *	4.75 V to 5.25 V	NPA Compensated, digital I2C.
 Current code is in beta. Use at your own risk, no warranties, implied or guarenteed.
 
-**SOIC 20pin breakout board used:** 
+**SOIC 20 pin breakout board used:** 
 
 https://www.amazon.com/QLOUNI-40pcs-Boards-Adapter-Converter/dp/B07CJ96ZPW/ref=sr_1_2_sspa?s=industrial&ie=UTF8&qid=1536502364&sr=1-2-spons&keywords=20+top+adapter&psc=1
 
