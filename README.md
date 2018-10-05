@@ -21,4 +21,4 @@ Current code is in beta. Use at your own risk, no warranties, implied or guarent
 
 https://www.amazon.com/QLOUNI-40pcs-Boards-Adapter-Converter/dp/B07CJ96ZPW/ref=sr_1_2_sspa?s=industrial&ie=UTF8&qid=1536502364&sr=1-2-spons&keywords=20+top+adapter&psc=1
 
-**example output:**
+**hybrid connection diagram:**
