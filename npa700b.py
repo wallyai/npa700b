@@ -38,7 +38,7 @@ def Press_2DF():
     tcoeff = 2048.00     # 2^11 - see datasheet for more info
 
 # Nova Pressure Sensor NPA 700b address, 0x28 (40)
-# Read data back from 0x28(40), with offset 0, 2 bytes)
+# Read data back from 0x28(40), with offset 0, 2 bytes
 # 2 bytes, Pressure LSB first
 
     data = bus.read_i2c_block_data(0x28, 0, 2)
