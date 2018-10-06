@@ -48,13 +48,8 @@ def Press_2DF():
     pressure_raw = data[0] << 8 # High Byte, Left shift the high byte
     pressure_raw = pressure_raw + data[1]
     print "Pressure count is: %.2d" %pressure_raw
-
-
-# slope = rise/span
-# where rise = count_max - count_min = 14,745 - 1638
-#       span = pressure_max + abs(pressure_min)
-
-# clculate the slope
+    
+# calculate the slope
     slope = (count_max - count_min) / (pressure_max + abs (pressure_min)) 
  
 # so final equation is = (pressure_raw * (slope)) - pressure_min
@@ -63,7 +58,7 @@ def Press_2DF():
 
 def Press_4DF():
 
-# some variable declarations
+#   some variable declarations
 #   count_max = 14745
 #   count_min = 1638
 
@@ -86,12 +81,7 @@ def Press_4DF():
     pressure_raw = pressure_raw + data[1]
 #   print "Pressure count is: %.2d" %pressure_raw
 
-
-# slope = rise/span
-# where rise = count_max - count_min = 14,745 - 1638
-#       span = pressure_max + abs(pressure_min)
-
-# clculate the slope
+# calculate the slope
     slope = (count_max - count_min) / (pressure_max + abs (pressure_min)) 
  
 # so final equation is = (pressure_raw * (slope)) - pressure_min
